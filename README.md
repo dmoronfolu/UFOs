@@ -6,22 +6,24 @@ In this analysis, we created a UFO sightings website that allows users to filter
 Results
 
 Using the index.html file we created in the module, we modified the code in the HTML file by creating more table filters. We created four more list elements similar to the “Enter Date” list element we created in the module. Since the codes are exactly the same, I copied and pasted the code for “Enter Date” four times and replaced the “Enter Date” with “Enter City”, “Enter State” and so on. The app.js and index.html files were modified to achieve our goal. To filter by city, the user simply need to enter the name of the desired city he/she would like to view. For instance, in the screenshot below, I filtered by Benton City, which only had one result.
- https://github.com/dmoronfolu/UFOs/blob/main/static/css/images/Filtered%20by%20City.png
 
+<img width="1082" alt="Filtered by City" src="https://user-images.githubusercontent.com/85265504/152092081-e6522a4e-bb88-45b3-a294-ab405d496ec0.png">
 
 The same logic is used to filter by Date, State, Country or Shape. Below is a screenshot of filtering by Date. When we filtered by 1/2/2010, we had eight results. 
- https://github.com/dmoronfolu/UFOs/blob/main/static/css/images/Filtered%20by%20Date.png
+
+<img width="1437" alt="Filtered by Date" src="https://user-images.githubusercontent.com/85265504/152092115-ee315e41-5a78-414d-84c1-d29c36dbe6a1.png">
 
 In the screenshot below, we filtered by the state of California, which generated more results than any other state. 
- https://github.com/dmoronfolu/UFOs/blob/main/static/css/images/Filtered%20by%20State.png
+
+<img width="1435" alt="Filtered by State" src="https://user-images.githubusercontent.com/85265504/152092143-4d65b0ac-0f73-491e-886c-049bfbb31be2.png">
 
 In the image below, we filtered by the county of Canada and received two UFO sightings in Canada, both sightings were in Ontario, Canada
- https://github.com/dmoronfolu/UFOs/blob/main/static/css/images/Filtered%20by%20Country.png
+
+<img width="1406" alt="Filtered by Country" src="https://user-images.githubusercontent.com/85265504/152092181-8596a4ab-a889-4388-bbb4-b46a0660198b.png">
 
 In our final filter result, I filtered by the Circle Shape, which displayed four results.
-https://github.com/dmoronfolu/UFOs/blob/main/static/css/images/Filtered%20by%20Shape.png
- 
 
+ <img width="1075" alt="Filtered by Shape" src="https://user-images.githubusercontent.com/85265504/152092210-48c96485-a49b-4076-b0ec-f200f346ab14.png">
 
 Summary
 
